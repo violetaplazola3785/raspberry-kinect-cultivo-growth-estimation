@@ -1,0 +1,7 @@
+spade
+freenect
+opencv-python
+numpy
+pandas
+paho-mqtt
+RPi.GPIO
